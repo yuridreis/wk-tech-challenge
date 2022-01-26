@@ -8,7 +8,7 @@ Um MVC utilizando PHP para cadastro de Clientes, Produtos e Vendas
 Realizar a clonagem do repositório e instalar as dependências.
 
 ```sh
-git clone https://github.com/yuridreis/blanko-challenge.git
+git clone git@github.com:yuridreis/wk-tech-challenge.git
 yarn
 ```
 
