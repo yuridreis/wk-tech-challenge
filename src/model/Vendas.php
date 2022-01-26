@@ -7,7 +7,6 @@ class Vendas extends Database {
     public function getVendas() {
         $sql = "SELECT * FROM vendas";
         $stmt = $this->connect()->query($sql);
-        $done = false;
         while ($row = $stmt->fetch()) {
             $id = $row['id'];
             $id_cliente = $row['id_cliente'];
