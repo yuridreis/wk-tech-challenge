@@ -11,8 +11,4 @@ class Database {
 
         return $pdo;
     }
-
-    protected function test() {
-        echo "hello world;";
-    }
 }
