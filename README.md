@@ -9,7 +9,6 @@ Realizar a clonagem do repositório e instalar as dependências.
 
 ```sh
 git clone git@github.com:yuridreis/wk-tech-challenge.git
-yarn
 ```
 
 Passo a passo utilizando o XAMPP
